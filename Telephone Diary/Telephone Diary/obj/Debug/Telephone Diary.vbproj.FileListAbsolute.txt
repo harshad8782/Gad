@@ -1,0 +1,12 @@
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.exe.config
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.exe
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.pdb
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.xml
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.vbprojAssemblyReference.cache
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone_Diary.Form1.resources
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone_Diary.Resources.resources
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.vbproj.GenerateResource.cache
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.vbproj.CoreCompileInputs.cache
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.exe
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.xml
+C:\Users\reshm\source\repos\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.pdb
